@@ -1,0 +1,24 @@
+#!/bin/sh
+./fillit error_0
+./fillit error_1
+./fillit error_2
+./fillit error_3
+./fillit error_4
+./fillit error_5
+./fillit error_6
+./fillit error_7
+./fillit error_8
+./fillit error_9
+./fillit error_10
+./fillit error_11
+./fillit error_12
+./fillit error_13
+./fillit error_14
+./fillit error_15
+./fillit error_16
+./fillit error_17
+./fillit error_18
+./fillit error_19
+./fillit error_20
+./fillit error_21
+./fillit error_22
